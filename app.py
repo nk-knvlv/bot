@@ -10,3 +10,5 @@ def echo_message(message):
     bot.reply_to(message, message.text)
 
 bot.polling()
+
+print("What the fuck")
