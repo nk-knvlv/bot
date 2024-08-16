@@ -2,3 +2,4 @@
 bot.service
 bot.sh
 .bot_venv
+venv/
